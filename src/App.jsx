@@ -1,6 +1,6 @@
 function App(){
   return <>
-    <h1>this is App component</h1>
+    <h1>this is App component (farm logo)</h1>
   </>
 }
 export default App;
